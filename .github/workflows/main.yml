@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: benjaminvimeux/docker-cicd:latest
+          tags: benjaminvimeux/docker-todo-app:latest
